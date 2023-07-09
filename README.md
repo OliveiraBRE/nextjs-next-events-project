@@ -45,6 +45,17 @@ All event cards have **Explore Event** button that will show a page with all eve
 
 
 
-## Conquest & Next Steps
-This project teached me about building pages and file-based routing (static & dynamic routes).
-The next step will be learn about page pre-rendering and data fetching & how to optimizing my nexts NextJS apps.
+## Conquest
+This project teached me about:
+[x] building pages and file-based routing (static & dynamic routes);
+[x] pre-rendering page;
+[x] data fetching  how to optimizing my nexts NextJS apps;
+[x] working with head component;
+[x] deeping in _app.js component;
+[x] deeping in _document.js;
+[x] how to optimizing images with next/image;
+
+## Next Steps
+[] adding back-end with API routes
+[] working with App-wide State (React Context)
+[] deploying NextJS Apps
